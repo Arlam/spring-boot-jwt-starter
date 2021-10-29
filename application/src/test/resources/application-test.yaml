@@ -1,0 +1,10 @@
+app:
+  security:
+    jwt:
+      enabled: true
+      expiration-ms: 18000000
+      secret: a-secret
+spring:
+  security:
+    user:
+      password: password

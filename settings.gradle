@@ -1,0 +1,5 @@
+rootProject.name = 'jwt-security-starter-project'
+
+include 'library'
+include 'application'
+

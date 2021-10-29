@@ -1,0 +1,10 @@
+app:
+  security:
+    jwt:
+      enabled: true
+server:
+  port: 35555
+spring:
+  security:
+    user:
+      password: password

@@ -1,0 +1,9 @@
+spring:
+  security:
+    user:
+      password: password
+app:
+  security:
+    jwt:
+      enabled: false
+
